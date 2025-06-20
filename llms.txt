@@ -19,6 +19,8 @@ Use these when called:
 - `addendum-tactical-hook-bank.md` — High-performing captions, CTAs, and shareable lines.
 - `addendum-content-reuse-rules.md` — Crossover strategies and reformatting logic.
 - `addendum-playbook-metrics.md` — KPI-style signal tracking methods for PR evaluation.
+- `addendum-readable-writing-guide.md` — For writing standards, formatting rules, and readability tactics for civic content
+
 
 ---
 
