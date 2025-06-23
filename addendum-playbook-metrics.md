@@ -21,12 +21,13 @@ A signal is **any observable outcome** that shows:
 
 Every PR asset should be evaluated with:
 
-| Signal Component     | Question                                          | Goal               |
-|----------------------|--------------------------------------------------|--------------------|
-| **Engagement Loop**  | Did it earn a reply, vote, tag, or comment?      | >5 meaningful interactions |
-| **Share Loop**       | Was it reposted or DM’d?                         | >2 shares or saves |
-| **Proof Loop**       | Did it get quoted or reused in decks/emails?     | 1+ reuse instance  |
-| **Whirl Loop**       | Did it trigger a new signup or Founding List mention? | 1+ downstream action |
+| Signal Component     | Question                                              | Goal                       |
+|----------------------|-------------------------------------------------------|----------------------------|
+| **Engagement Loop**  | Did it earn a reply, vote, tag, or comment?           | >5 meaningful interactions |
+| **Share Loop**       | Was it reposted or DM’d?                              | >2 shares or saves         |
+| **Proof Loop**       | Did it get quoted or reused in decks/emails?          | 1+ reuse instance          |
+| **Whirl Loop**       | Did it trigger a new signup or Founding List mention? | 1+ downstream action       |
+| **Narrative Loop**   | Was it opened, clicked, or shared on Substack?        | >40% open, >10% click, >2 shares |
 
 If it hits 2+ loops, mark as **High Signal** and store in `/analytics/reuse-log.md`.
 
@@ -34,15 +35,18 @@ If it hits 2+ loops, mark as **High Signal** and store in `/analytics/reuse-log.
 
 ## 📊 KPI Dashboard: *Momentum Metrics That Matter*
 
-| Metric Name               | Description                                                           | Source Folder               | Target        |
-|---------------------------|-----------------------------------------------------------------------|------------------------------|---------------|
-| **Founding List Growth**      | New subscribers in 24–48 hrs after PR drop                              | `/leads/`                    | +5 per drop   |
-| **Signal Save Rate**         | IG saves / LinkedIn “Save” clicks per asset                             | `/analytics` or platform     | >3 per post   |
-| **Replay Rate (Reels)**      | % of viewers who rewatched reel >1x                                     | `/tv-assets/social-clips/`   | >30%          |
-| **Civic Quote Usage**        | Number of civic decks/emails reusing a quote or caption                 | `/scripts`, `/crm-board`     | 1 per week    |
-| **Multi-Channel Reuse**      | Assets appearing in >2 formats (e.g., IG + email + deck)                | `/analytics/reuse-log.md`    | 2+ per week   |
-| **ZIP Code Reach Spread**    | # of unique ZIPs mentioned or tagged in spotlight posts                 | `/social-templates/IG/`      | >5 per month  |
-| **City/Partner Reshares**    | Reposts or endorsements from civic orgs or sponsors                     | `/crm-board`                 | 1 per month   |
+| Metric Name                   | Description                                              | Source Folder                 | Target        |
+|-------------------------------|----------------------------------------------------------|-------------------------------|---------------|
+| **Founding List Growth**      | New subscribers in 24–48 hrs after PR drop               | `/leads/`                     | +5 per drop   |
+| **Signal Save Rate**          | IG saves / LinkedIn “Save” clicks per asset              | `/analytics` or platform      | >3 per post   |
+| **Replay Rate (Reels)**       | % of viewers who rewatched reel >1x                      | `/tv-assets/social-clips/`    | >30%          |
+| **Civic Quote Usage**         | Number of civic decks/emails reusing a quote or caption  | `/scripts`, `/crm-board`      | 1 per week    |
+| **Multi-Channel Reuse**       | Assets appearing in >2 formats (e.g., IG + email + deck) | `/analytics/reuse-log.md`     | 2+ per week   |
+| **ZIP Code Reach Spread**     | # of unique ZIPs mentioned or tagged in spotlight posts  | `/social-templates/IG/`       | >5 per month  |
+| **City/Partner Reshares**     | Reposts or endorsements from civic orgs or sponsors      | `/crm-board`                  | 1 per month   |
+| **Substack Open Rate**        | % of recipients who open each Substack issue             | `/email-drafts/substack/`     | >40%          |
+| **Substack Click Rate**       | % of readers clicking CTA links in issue                 | `/email-drafts/substack/`     | >10%          |
+| **Substack Shares/Forwards**  | Substack link shared or forwarded by readers             | `/analytics` or platform data | >2 per issue  |
 
 ---
 
