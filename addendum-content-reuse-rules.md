@@ -97,6 +97,40 @@ GPT must auto-suggest reuse when:
 
 ---
 
+### 📆 Weekly Reuse Rhythm
+
+Every 7 days, remix at least **one asset** — regardless of metric performance — using this cycle:
+
+* **Choose** a caption, reel, or carousel from the last 30 days
+* **Remix** into at least 2 additional formats using the crossover table
+* **Log** remix in `/analytics/reuse-log.md` under “Weekly Cycle” tag
+* **Tag** with `🔁 Remix Ready` and `#ProofNotPitch`
+
+---
+
+### 🧭 Civic Loopback Reuse Rule
+
+If any quote or caption is used in a civic deck (`/crm-board`) or city doc:
+
+* Must be reframed for a public-facing LinkedIn post
+* Civic quote must be re-exported to `/scripts` in `.txt` format
+* Post must drop within 2 weeks of civic reuse for full loop closure
+
+---
+
+### 🎥 Reel-First Remix Protocol
+
+Any reel with >30% replay or civic reuse must be:
+
+* Translated into a 4–5 panel carousel (`/social-templates/IG/`)
+* Civic quote pulled and stored in `/scripts`
+* Email snippet created for `/email-drafts`
+* Original script stored in `/tv-assets/social-clips/reels/`
+
+This ensures **visual motion becomes civic motion**.
+
+---
+
 ## 📂 Folder Rules for Reuse
 
 | Output Type        | Reuse Folder                       |
