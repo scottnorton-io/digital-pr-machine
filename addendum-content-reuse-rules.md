@@ -14,11 +14,12 @@ This is reformatting **with fidelity to the movement.**
 
 **If a post resonates → remix it across:**
 
-| Format        | Channel      | Style Shift                                      |
-|---------------|--------------|--------------------------------------------------|
-| Instagram     | Vibe + Visual| Reel, meme, or carousel                          |
-| LinkedIn      | Framing      | Civic value, narrative clarity, stat-backed     |
-| Email         | Expansion    | Personal tone, behind-the-scenes, founder POV   |
+| Format        | Channel      | Style Shift                                   |
+|---------------|--------------|-----------------------------------------------|
+| Instagram     | Vibe + Visual| Reel, meme, or carousel                       |
+| LinkedIn      | Framing      | Civic value, narrative clarity, stat-backed   |
+| Email         | Expansion    | Personal tone, behind-the-scenes, founder POV |
+| Substack      | Email + Web  | Longform civic story, narrative clarity       |
 
 > High-performing content = **scroll-stopping AND quote-worthy**.  
 > Use this crossover logic to make it both.
@@ -57,6 +58,15 @@ This is reformatting **with fidelity to the movement.**
 | 1    | Identify quote or phrase that explains a benefit              |
 | 2    | Reframe as slide subheader or city value proposition          |
 | 3    | Save to `/crm-board` or `/pitch-assets` as `.md`              |
+
+### 🗞 From Caption → Substack Newsletter
+| Step | How To Adapt                                                  |
+|------|---------------------------------------------------------------|
+| 1    | Expand caption’s core insight into a short civic story        |
+| 2    | Add ZIP, name, or climate detail for local grounding          |
+| 3    | Include a civic quote or stat-based signal                    |
+| 4    | Close with CTA + Substack link for Founding List              |
+| 5    | Store in `/email-drafts/substack/`                            |
 
 ---
 
@@ -142,6 +152,7 @@ This ensures **visual motion becomes civic motion**.
 | Reel Scripts       | `/tv-assets/social-clips/reels`    |
 | Email Versions     | `/email-drafts`                    |
 | Analytics Triggers | `/analytics/reuse-log.md`          |
+| Substack Issues    | `/email-drafts/substack/`          |
 
 > ✅ Every reused post should be logged with its origin, remix type, and destination.
 
