@@ -27,6 +27,9 @@ Each pack includes:
 - 🧱 Carousel Prompt
 - 🗣️ Civic Quote Prompt
 
+### 📰 Substack Prompt
+> “Write a Substack issue that opens with a real moment (ZIP, stat, or court story), expands into the civic why, and ends with a Founding List CTA.”
+
 Use **loop tags** (`#HeatCheck`, `#IndoorWhy`, etc.) for classification.
 
 ---
