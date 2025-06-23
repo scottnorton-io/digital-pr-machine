@@ -123,6 +123,7 @@ Use these to generate quick PR-ready social assets.
 | Reel/Shortform         | `/tv-assets/social-clips/`      | Use with visual or audio cue  |
 | Newsletter Snippet     | `/email-drafts/`                | Drip sequence / Founding List |
 | Deck Line              | `/crm-board` or `/pitch-assets` | Civic or partner-facing decks |
+| Substack Newsletter    | `/email-drafts/substack/`       | Longform civic narrative drop |
 
 ---
 
@@ -136,6 +137,7 @@ Use these to generate quick PR-ready social assets.
    * `#WhirlLocal`
    * `#IndoorWhy`
    * `#BuildTheCourts`
+4. Remix civic quote or caption into Substack longform post (biweekly drop).
 
 ---
 
