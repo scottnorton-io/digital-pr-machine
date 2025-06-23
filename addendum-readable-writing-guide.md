@@ -66,6 +66,13 @@ Readers *scan*, not study. Your layout should reflect that:
 
 > Write for replay. Not for applause.
 
+**Substack Formatting Tips:**  
+- Start with a vivid moment (ZIP, player, temp, or quote).  
+- Expand with story, insight, or stat.  
+- Bold your civic truth.  
+- End with one crisp CTA: Founding List, reply, or quote pull.  
+- Keep paragraphs short. Use subheads to break up logic.
+
 ---
 
 ## 📏 Measuring Readability
